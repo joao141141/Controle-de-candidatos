@@ -26,7 +26,7 @@ public class Controle {
             if (continuarTentando) {
                 tentativasRealizadas++;
             } else {
-                System.out.println("Cnotato Realizado com sucesso!");
+                System.out.println("Contato Realizado com sucesso!");
             }
         } while (continuarTentando && tentativasRealizadas < 3);
 
